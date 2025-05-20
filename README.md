@@ -6,7 +6,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that lets you upload PDF document
 
 -  **PDF Parsing** – Extracts and chunks text from PDF files
 -  **Vector Embeddings** – Uses Hugging Face embeddings for document representation
--  **FAISS/Chroma** – Vector store for fast semantic retrieval
+-  **FAISS** – Vector store for fast semantic retrieval
 -  **LLM-Backed Q&A** – Uses LLMs (OpenAI, Gemma, LLaMA, or Gemini) for response generation
 -  **LangChain** – Handles RAG pipeline and document retrieval
 -  **Streamlit Interface** – Intuitive UI to upload files and ask questions
