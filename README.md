@@ -16,7 +16,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that lets you upload PDF document
  UI            Streamlit 
  LLMs          OpenAI GPT, Google Gemini (Generative AI), LLaMA, Gemma 
  Embeddings    Hugging Face (e.g., BGE, E5, MiniLM) 
- Vector Store  FAISS / Chroma 
+ Vector Store  FAISS 
  RAG Pipeline  LangChain 
  PDF Parsing   PyMuPDF (fitz) 
 
