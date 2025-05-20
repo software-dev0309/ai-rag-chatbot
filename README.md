@@ -25,7 +25,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that lets you upload PDF document
 Clone the repository:
 
 ```bash
-git clone https://github.com/ridesurfing-dev/ai-rag-chatbot.git
+git clone https://github.com/software-dev0309/ai-rag-chatbot.git
 cd rag-chatbot
 
 ```
